@@ -5,6 +5,9 @@ h1{
     font-size: 50px;
     
 }
+.text-center{
+    text-align: center;
+}
 .img{
    align-items: center;
    width: 100%;
@@ -72,4 +75,43 @@ body
 .main-class{
     display: flex;
     justify-content: space-evenly;
+}
+
+.heading{
+    text-align: center;
+    color: #e53170;
+    
+}
+
+.heading1{
+    text-align: center;
+    color: #fffffe;
+    
+}
+.wh-choose-us{
+    background-color: #58e5#a7a9be61;
+    width: 170px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    border:solid rgb(191, 163, 163) 2px;
+    box-shadow:2px 2px 2px 2px #ff8906;
+    border-radius: 10px;
+    color:#ff8906
+    
+}
+.why-choose-us-img{
+    height: 60px;
+    display: block;
+    margin: 10px auto;
+    border:solid grey 4px;
+    height:100px;
+    width: 100px;
+    background-color: #fffffe;
+}
+.why-choose-us-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+
 }
